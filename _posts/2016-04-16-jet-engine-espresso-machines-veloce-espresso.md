@@ -1,13 +1,12 @@
 ---
-datePublished: '2016-08-24T23:21:51.215Z'
+datePublished: '2016-08-24T23:24:21.004Z'
 sourcePath: _posts/2016-04-16-jet-engine-espresso-machines-veloce-espresso.md
 inFeed: true
-isBasedOnUrl: 'http://www.trendhunter.com/trends/veloce-espresso'
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author: []
-dateModified: '2016-08-24T23:21:50.633Z'
+dateModified: '2016-08-24T23:24:20.637Z'
 title: 'Jet Engine Espresso Machines : veloce espresso'
 app_links: []
 publisher:
@@ -22,6 +21,7 @@ description: >-
 inNav: false
 via: {}
 starred: false
+url: jet-engine-espresso-machines-veloce-espresso/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
