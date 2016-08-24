@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: The Truth Network
+navigation:
+  - name: 'Jet Engine Espresso Machines : veloce espresso'
+    id: 10e6f2d7-74f9-4acc-8701-b99b6dd7d702
+    type: content
