@@ -1,4 +1,3 @@
-layout_spectrum: 0.8273001979105175
 typography_spectrum: 0.05510968714952469
 color:
   brandStrength: 0.6713672103360295
@@ -11,8 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.8273001979105175
 name: The Truth Network
 navigation:
   - name: 'Jet Engine Espresso Machines : veloce espresso'
     id: 10e6f2d7-74f9-4acc-8701-b99b6dd7d702
     type: content
+title: Test
